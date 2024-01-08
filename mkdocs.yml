@@ -58,4 +58,6 @@ nav:
       - Status: commands/status.md
       - Submit: commands/submit.md
       - VPN: commands/vpn.md
+      - Version: commands/version.md
+      - Update: commands/update.md
   
