@@ -25,7 +25,7 @@ export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 ## Stable version from sources
 
 ```bash
-git clone git@github.com:GoToolSharing/htb-cli.git
+git clone https://github.com/GoToolSharing/htb-cli.git
 Cloning into 'htb-cli'...
 remote: Enumerating objects: 1756, done.
 remote: Counting objects: 100% (224/224), done.
@@ -61,7 +61,7 @@ Development version (dev branch): a4cab218bb5f9851028091eb74469d4e21c469d0
 ## Development version from sources
 
 ```bash
-git clone git@github.com:GoToolSharing/htb-cli.git
+git clone https://github.com/GoToolSharing/htb-cli.git
 Cloning into 'htb-cli'...
 remote: Enumerating objects: 1756, done.
 remote: Counting objects: 100% (224/224), done.
