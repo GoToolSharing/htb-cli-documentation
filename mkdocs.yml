@@ -33,6 +33,8 @@ theme:
         name: Switch to system preference
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: codehilite
