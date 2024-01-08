@@ -47,4 +47,6 @@ nav:
     - Home: index.md
     - Installation: installation.md
     - Configuration: configuration.md
+    - Commands:
+      - Shoutbox: commands/shoutbox.md
   
