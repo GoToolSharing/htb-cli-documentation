@@ -1,3 +1,0 @@
-# start the command
-
-hello

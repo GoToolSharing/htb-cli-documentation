@@ -1,6 +1,9 @@
 site_name: htb-cli documentation
 theme:
   name: material
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GoToolSharing/htb-cli
   favicon: assets/logo.png
   features:
     - navigation.instant
