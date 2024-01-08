@@ -45,12 +45,36 @@ htb-cli version
 Stable version (main branch): v1.5.1
 ```
 
-## Development version
+## Development version from remote
 
 The **development version (dev branch)** can be installed using the following command:
 
 ```bash
 go install github.com/GoToolSharing/htb-cli@dev
+```
+
+```bash
+htb-cli version
+Development version (dev branch): a4cab218bb5f9851028091eb74469d4e21c469d0
+```
+
+## Development version from sources
+
+```bash
+git clone git@github.com:GoToolSharing/htb-cli.git
+Cloning into 'htb-cli'...
+remote: Enumerating objects: 1756, done.
+remote: Counting objects: 100% (224/224), done.
+remote: Compressing objects: 100% (131/131), done.
+remote: Total 1756 (delta 106), reused 142 (delta 77), pack-reused 1532
+Receiving objects: 100% (1756/1756), 4.21 MiB | 3.27 MiB/s, done.
+Resolving deltas: 100% (1083/1083), done.
+```
+
+```bash
+cd htb-cli
+git checkout dev
+go install .
 ```
 
 ```bash
