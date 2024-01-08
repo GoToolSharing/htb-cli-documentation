@@ -51,4 +51,5 @@ nav:
       - Shoutbox: commands/shoutbox.md
       - Sherlocks: commands/sherlocks.md
       - Info: commands/info.md
+      - Machines: commands/machines.md
   
