@@ -49,4 +49,5 @@ nav:
     - Configuration: configuration.md
     - Commands:
       - Shoutbox: commands/shoutbox.md
+      - Sherlocks: commands/sherlocks.md
   
