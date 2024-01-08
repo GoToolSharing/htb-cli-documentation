@@ -1,4 +1,4 @@
-# sherlocks
+# Sherlocks
 
 The **sherlocks** command lets you interact with HackTheBox's **blue team** mode. If no argument is given, you'll get information on **active, retired and soon-to-be-released** sherlocks.
 

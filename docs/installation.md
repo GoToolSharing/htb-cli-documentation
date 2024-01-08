@@ -34,3 +34,11 @@ go install github.com/GoToolSharing/htb-cli@dev
 htb-cli version
 Development version (dev branch): a4cab218bb5f9851028091eb74469d4e21c469d0
 ```
+
+## Pre-compiled binaries
+
+**Pre-compiled binaries** are available with each release, allowing users to download the program without having to build it.
+
+<a href="https://github.com/GoToolSharing/htb-cli/releases/tag/v1.5.1" target="_blank">https://github.com/GoToolSharing/htb-cli/releases/tag/v1.5.1</a>
+
+![Binaries](/assets/configuration/binaries.png)
