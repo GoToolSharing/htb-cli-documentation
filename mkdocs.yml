@@ -48,6 +48,9 @@ nav:
     - Installation: installation.md
     - Configuration: configuration.md
     - Commands:
+      - Introduction: commands/introduction.md
+      - Version: commands/version.md
+      - Update: commands/update.md
       - Shoutbox: commands/shoutbox.md
       - Sherlocks: commands/sherlocks.md
       - Info: commands/info.md
@@ -55,9 +58,8 @@ nav:
       - Start: commands/start.md
       - Stop: commands/stop.md
       - Reset: commands/reset.md
-      - Status: commands/status.md
       - Submit: commands/submit.md
       - VPN: commands/vpn.md
-      - Version: commands/version.md
-      - Update: commands/update.md
+      - Status: commands/status.md
+     
   
