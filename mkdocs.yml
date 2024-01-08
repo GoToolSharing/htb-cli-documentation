@@ -8,6 +8,8 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.tracking
+    - content.code.copy
   palette:
 
     # Palette toggle for automatic mode
