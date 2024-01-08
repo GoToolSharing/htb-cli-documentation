@@ -52,4 +52,10 @@ nav:
       - Sherlocks: commands/sherlocks.md
       - Info: commands/info.md
       - Machines: commands/machines.md
+      - Start: commands/start.md
+      - Stop: commands/stop.md
+      - Reset: commands/reset.md
+      - Status: commands/status.md
+      - Submit: commands/submit.md
+      - VPN: commands/vpn.md
   
