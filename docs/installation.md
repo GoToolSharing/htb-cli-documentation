@@ -1,6 +1,6 @@
 # Installation
 
-## Stable version
+## Stable version from remote
 
 The **stable version (main branch)** of `htb-cli` only requires `golang version 20` to be installed (<a href="https://go.dev/doc/install" target="_blank">https://go.dev/doc/install</a>).
 
@@ -20,6 +20,29 @@ Make sure you have golang in your **PATH** so you don't run into any problems wh
 ```bash
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+```
+
+## Stable version from sources
+
+```bash
+git clone git@github.com:GoToolSharing/htb-cli.git
+Cloning into 'htb-cli'...
+remote: Enumerating objects: 1756, done.
+remote: Counting objects: 100% (224/224), done.
+remote: Compressing objects: 100% (131/131), done.
+remote: Total 1756 (delta 106), reused 142 (delta 77), pack-reused 1532
+Receiving objects: 100% (1756/1756), 4.21 MiB | 3.27 MiB/s, done.
+Resolving deltas: 100% (1083/1083), done.
+```
+
+```bash
+cd htb-cli
+go install .
+```
+
+```bash
+htb-cli version
+Stable version (main branch): v1.5.1
 ```
 
 ## Development version
