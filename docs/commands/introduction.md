@@ -12,11 +12,11 @@ htb-cli info -c OOPArtDB --batch
 
 ![Batch](/assets/commands/globals/batch.png)
 
-## No Check (--no-check)
+<!-- ## No Check (--no-check)
 
 By default, with each command, a request is sent to **Github** to check if the tool is **up to date** or if a **new version is available**.
 
-The `--no-check` flag allows you not to check if a new update is available.
+The `--no-check` flag allows you not to check if a new update is available. -->
 
 ## Proxy (--proxy)
 
