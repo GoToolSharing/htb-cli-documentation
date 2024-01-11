@@ -66,3 +66,15 @@ htb-cli submit -e RPG
 ```
 
 ![Endgame](/assets/commands/submit/endgame.png)
+
+## Prolabs
+
+To **submit a prolab** flag, you can specify its name with the `-p` or `--prolab` flag.
+The exact name is not essential. A **fuzzy finder** will retrieve the prolab with the name closest to the search.
+
+```bash
+htb-cli submit --prolab Dante
+```
+
+![Prolab](/assets/commands/submit/prolab.png)
+
