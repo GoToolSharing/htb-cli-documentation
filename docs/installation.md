@@ -1,11 +1,8 @@
 # Installation
 
-!!! danger "Version v1.5.1"
+!!! note "Outdated documentation"
 
-    Version v1.5.1 has a bug that prevents it from being installed correctly.
-    Once installed, the version is not v1.5.1 (stable) but a development version.
-    To install the latest version, please follow the "Stable version from sources" or "Pre-compiled binaries" steps.
-
+    Documentation is being written for update v1.6.0. Thank you for understanding.
 
 ## Stable version from remote
 
