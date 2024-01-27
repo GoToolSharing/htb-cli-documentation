@@ -12,7 +12,7 @@ go install github.com/GoToolSharing/htb-cli@latest
 
 ```bash
 htb-cli version
-Stable version (main branch): v1.5.1
+Stable version (main branch): v1.6.0
 ```
 
 Make sure you have golang in your **PATH** so you don't run into any problems when executing the binary. The following code must be added to your **rc file (bashrc / zshrc)** to make it permanent.
@@ -42,7 +42,7 @@ go install .
 
 ```bash
 htb-cli version
-Stable version (main branch): v1.5.1
+Stable version (main branch): v1.6.0
 ```
 
 ## Development version from remote
@@ -55,7 +55,7 @@ go install github.com/GoToolSharing/htb-cli@dev
 
 ```bash
 htb-cli version
-Development version (dev branch): a4cab218bb5f9851028091eb74469d4e21c469d0
+Development version (dev branch)
 ```
 
 ## Development version from sources
@@ -79,13 +79,13 @@ go install .
 
 ```bash
 htb-cli version
-Development version (dev branch): a4cab218bb5f9851028091eb74469d4e21c469d0
+Development version (dev branch)
 ```
 
 ## Pre-compiled binaries
 
 **Pre-compiled binaries** are available with each release, allowing users to download the program without having to build it.
 
-<a href="https://github.com/GoToolSharing/htb-cli/releases/tag/v1.5.1" target="_blank">https://github.com/GoToolSharing/htb-cli/releases/tag/v1.5.1</a>
+<a href="https://github.com/GoToolSharing/htb-cli/releases/tag/v1.6.0" target="_blank">https://github.com/GoToolSharing/htb-cli/releases/tag/v1.6.0</a>
 
 ![Binaries](/assets/configuration/binaries.png)
