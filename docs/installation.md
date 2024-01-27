@@ -1,12 +1,5 @@
 # Installation
 
-!!! danger "Version v1.5.1"
-
-    Version v1.5.1 has a bug that prevents it from being installed correctly.
-    Once installed, the version is not v1.5.1 (stable) but a development version.
-    To install the latest version, please follow the "Stable version from sources" or "Pre-compiled binaries" steps.
-
-
 ## Stable version from remote
 
 The **stable version (main branch)** of `htb-cli` only requires `golang version 20` to be installed (<a href="https://go.dev/doc/install" target="_blank">https://go.dev/doc/install</a>).
