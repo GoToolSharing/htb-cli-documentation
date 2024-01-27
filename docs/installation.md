@@ -1,9 +1,5 @@
 # Installation
 
-!!! note "Outdated documentation"
-
-    Documentation is being written for update v1.6.0. Thank you for understanding.
-
 ## Stable version from remote
 
 The **stable version (main branch)** of `htb-cli` only requires `golang version 20` to be installed (<a href="https://go.dev/doc/install" target="_blank">https://go.dev/doc/install</a>).
