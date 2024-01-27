@@ -2,7 +2,7 @@
 
 ## Machine search
 
-The **start** command starts an instance for a machine. The **machine name** must be specified using the `-m` or `--machine` argument. Once started, its **IP address** is displayed.
+The **start** command starts an instance for a machine. The **machine name** must be specified using the `-m` or `--machine` argument. Once started, its **IP address** is displayed as well as the **start-up time**.
 
 ```bash
 htb-cli start -m Visual

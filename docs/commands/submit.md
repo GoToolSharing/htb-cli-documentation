@@ -9,14 +9,24 @@ The **submit** command is used to **submit a flag**. Currently, the following su
 * Challenges
 * Fortresses
 
+## Achievements
+
+When submitting a flag with the **submit command**, if the user has submitted both the user flag and the root flag, a link to the user's achievement will be displayed.
+
+```bash
+htb-cli submit -m Shoppy
+```
+
+![Achievement](/assets/commands/submit/achievement.png)
+
+![Achievement2](/assets/commands/submit/achievement2.png)
+
 ## Release Arena
 
 If no flag is submitted, then the machine in **release arena** will be chosen. The machine in **release arena** can also be searched via the `-m` or `--machine` flag.
 
-The `-d` or `--difficulty` flag must be used to indicate the **difficulty** of obtaining the flag.
-
 ```bash
-htb-cli submit -d 3
+htb-cli submit
 ```
 
 ![Machine](/assets/commands/submit/ra.png)
@@ -25,10 +35,8 @@ htb-cli submit -d 3
 
 A **machine name** can be specified to submit the flag for a specific machine. The `-m` or `--machine` option can be used for this.
 
-The `-d` or `--difficulty` flag must be used to indicate the **difficulty** of obtaining the flag.
-
 ```bash
-htb-cli submit -m Sau -d 3
+htb-cli submit -m Sau
 ```
 
 ![Machine](/assets/commands/submit/machine.png)
@@ -77,4 +85,3 @@ htb-cli submit --prolab Dante
 ```
 
 ![Prolab](/assets/commands/submit/prolab.png)
-

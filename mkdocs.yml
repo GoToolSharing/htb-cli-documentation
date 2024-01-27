@@ -67,6 +67,8 @@ nav:
       - Reset: commands/reset.md
       - Submit: commands/submit.md
       - VPN: commands/vpn.md
+      - Getflag: commands/getflag.md
+      - Hosts: commands/hosts.md
       - Status: commands/status.md
      
   
