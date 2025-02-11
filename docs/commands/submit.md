@@ -64,17 +64,6 @@ htb-cli submit -f text
 
 ![Fortress](/assets/commands/submit/fortress.png)
 
-## Endgames
-
-To **submit a endgame** flag, you can specify its name with the `-e` or `--endgame` flag.
-The exact name is not essential. A **fuzzy finder** will retrieve the endgame with the name closest to the search.
-
-```bash
-htb-cli submit -e RPG
-```
-
-![Endgame](/assets/commands/submit/endgame.png)
-
 ## Prolabs
 
 To **submit a prolab** flag, you can specify its name with the `-p` or `--prolab` flag.
