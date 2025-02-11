@@ -24,7 +24,7 @@
 
 !!! note "Updated documentation !"
 
-    The documentation is up to date with the latest release on Github (v1.6.0).
+    The documentation is up to date with the latest release on Github (v1.7.0).
 
 <a href="https://github.com/GoToolSharing/htb-cli" target="_blank">htb-cli</a> is a project developed and maintained by <a href="https://github.com/QU35T-code/" target="_blank">QU35T-code</a>. It interacts with the **API of <a href="https://app.hackthebox.com/" target="_blank">HackTheBox</a>**, a popular cybersecurity platform.
 It responds to the need to be **competitive**, limit user interaction with the website and **save time** with possible actions.
