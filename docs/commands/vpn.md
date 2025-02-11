@@ -33,7 +33,6 @@ The **mode** must be specified with the `-m` flag from the following list:
 * sp
 * fortresses
 * prolabs
-* endgames
 * competitive
 
 ```bash

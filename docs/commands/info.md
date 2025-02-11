@@ -10,10 +10,10 @@ htb-cli info
 
 ## Player search
 
-htb-cli allows you to retrieve information from **another player** via the `-s` flag, which will specify the desired **username**.
+htb-cli allows you to retrieve information from **another player** via the `-u` flag, which will specify the desired **username**.
 
 ```bash
-htb-cli info -s 22sh
+htb-cli info -u 22sh
 ```
 
 ![User Info](/assets/commands/info/user.png)
